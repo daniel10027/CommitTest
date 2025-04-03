@@ -1,2 +1,2 @@
-var username = prompt("What's your name?");
-alert("Your name is " + username);
+var name1  = "Jean Aristide"
+var name2 = "Jean Marie"
